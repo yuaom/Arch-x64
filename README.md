@@ -3,29 +3,29 @@
 
 x64 based disassembler for executables
 
-	Settings
-	- custom alignment bytes
-	- custom base
-	- custom segment bitness 16bit, 32bit, 64bit
+Settings
+- custom alignment bytes
+- custom base
+- custom segment bitness 16bit, 32bit, 64bit
 
-	Section Information
-	- section name
-	- section start address
-    	- section end address
-	- section virtual size
-	- section flags
-	- section permissions (RWX)
+Section Information
+- section name
+- section start address
+  - section end address
+- section virtual size
+- section flags
+- section permissions (RWX)
 
-	Disassemble
-	- instruction address
-	- instruction size
-	- instruction mnemonic text
-	- instruction oprehands text
-    	- instruction alignment
-	- display "possible end" of instruction flow
+Disassemble
+- instruction address
+- instruction size
+- instruction mnemonic text
+- instruction oprehands text
+- instruction alignment
+- display "possible end" of instruction flow
 
-    	String View
-    	- display C-Style strings
+String View
+- display C-Style strings
 
-    	Entry Point
-    	- display the main entry point address
+Entry Point
+- display the main entry point address
