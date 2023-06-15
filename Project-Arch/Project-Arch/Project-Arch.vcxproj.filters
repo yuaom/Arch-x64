@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Utilities">
+      <UniqueIdentifier>{d350185c-427f-4312-aa52-27d10b29afa1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Window">
+      <UniqueIdentifier>{1e6f4deb-90cf-47e0-a5d1-2fcd9231ce21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Window\ImGui">
+      <UniqueIdentifier>{55719cb5-0814-4024-a065-4aa8f6fcbb92}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Window\window.cpp">
+      <Filter>Window</Filter>
+    </ClCompile>
+    <ClCompile Include="Window\ImGui\imgui.cpp">
+      <Filter>Window\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Window\ImGui\imgui_demo.cpp">
+      <Filter>Window\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Window\ImGui\imgui_draw.cpp">
+      <Filter>Window\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Window\ImGui\imgui_impl_dx11.cpp">
+      <Filter>Window\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Window\ImGui\imgui_impl_win32.cpp">
+      <Filter>Window\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Window\ImGui\imgui_tables.cpp">
+      <Filter>Window\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Window\ImGui\imgui_widgets.cpp">
+      <Filter>Window\ImGui</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Utilities\includes.hpp">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities\operations.hpp">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities\disassemble.hpp">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities\fonts.hpp">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities\globals.hpp">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Window\ImGui\imconfig.h">
+      <Filter>Window\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Window\ImGui\imgui.h">
+      <Filter>Window\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Window\ImGui\imgui_impl_dx11.h">
+      <Filter>Window\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Window\ImGui\imgui_impl_win32.h">
+      <Filter>Window\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Window\ImGui\imgui_internal.h">
+      <Filter>Window\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Window\ImGui\imstb_rectpack.h">
+      <Filter>Window\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Window\ImGui\imstb_textedit.h">
+      <Filter>Window\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Window\ImGui\imstb_truetype.h">
+      <Filter>Window\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Window\interface.hpp">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Project-Arch.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\Downloads\ArchIcon.ico" />
+  </ItemGroup>
+</Project>
