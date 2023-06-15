@@ -1,5 +1,6 @@
 # ProjectArch-x64
-![Arch](https://github.com/SurgeGotTappedAgain/Arch-x64/assets/80023326/bf7d8bb1-4b41-42c0-98b9-d497131b0cf4)
+![Arch](https://github.com/SurgeGotTappedAgain/Arch-x64/assets/80023326/f7cd62d2-a609-4e77-ba19-d143fae5b5ba)
+
 
 x64 ImGui based disassembler for executables
 
