@@ -36,8 +36,9 @@ Other
 - fix performance, especially for large binaries
 
 # Screenshots
-![image](https://github.com/SurgeGotTappedAgain/Arch-x64/assets/80023326/16aad2dd-3ad7-4942-ae0d-0da264d5a8d5)
-![image](https://github.com/SurgeGotTappedAgain/Arch-x64/assets/80023326/d51832f7-b4b3-422b-8172-ac16c37bfcc2)
+![image](https://github.com/SurgeGotTappedAgain/Arch-x64/assets/80023326/d4f86ce7-953c-4a39-b57f-f430a5253b20)
+![image](https://github.com/SurgeGotTappedAgain/Arch-x64/assets/80023326/a332516e-bf31-4883-998f-378592197c5a)
+
 
 # Credits
 - evrope#5714 for the GUI
